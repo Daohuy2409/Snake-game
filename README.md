@@ -61,3 +61,53 @@
       
      + Tại Terminal, gọi mingw32-make, sau đó là .\main.exe
       
+2. Mô tả chung: 
+      
+- Lấy ý tưởng từ game Snake, sử dụng 4 phím [UP], [DOWN], [LEFT], [RIGHT] để di chuyển con rắn ăn thức ăn trên màn.
+      
+- Game được viết bằng ngôn ngữ C++ và sử dụng thư viện SDL2, SDL2_mixer, SDL2_ttf.
+      
+- Luật chơi:
+      
+     + Di chuyển con rắn ăn táo, ăn càng nhiều thì rắn sẽ càng dài ra.
+      
+     + Có thể đi xuyên tường.
+      
+     + Trò chơi kết thúc khi rắn cắn phải thân.
+      
+3. Các chức năng:
+      
+- Màn hình khởi động Menu của game với board 540x360 cho phép người chơi chọn bắt đầu chơi khi nhấn space, hay thoát khi nhấn Esc.
+      
+- Khi chơi, phía dưới phần sân chơi hiển thị điểm số hiện tại và điểm cao nhất.
+      
+- Khi thua, màn hình hiển thị Game over và thoát bằng cách click.
+      
+- Video: https://www.youtube.com/watch?v=4GZUoN2icxo
+      
+4. Kỹ thuật lập trình đã sử dụng:
+- Mảng.
+
+- Các thư viện SDL, SDL_image, SDL_ttf, SDL_mixer.
+      
+- Bắt sự kiện bàn phím, chuột.
+      
+- Các thư viện chuẩn của C++
+      
+- Tách file.
+
+5. Kết luận:
+- Hướng phát triển:
+      
+      + Làm thêm các bức tường trong sân chơi để tăng độ khó.
+      
+      + Có thể chơi người với người hoặc người với máy so sánh về điểm số trong một khoảng thời gian xác định.
+      
+      + Tạo hình sân chơi, rắn với đồ họa đẹp hơn.
+      
+- Các điều mà em rút ra được sau khi hoàn thiện chương trình:
+      
+      + Cần bổ túc thêm tiếng Anh, do các tài liệu, thông tin đầy đủ, chất lượng viết bằng tiếng Việt không nhiều, mà chủ yếu viết bằng tiếng Anh.
+      
+      + Dần hoàn thiện các kĩ năng khi code những project với hàng trăm dòng code, thay vì những chương trình vài chục dòng code như trước đây.
+      
