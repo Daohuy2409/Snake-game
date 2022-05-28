@@ -46,7 +46,7 @@
     ![Screenshot ()](https://user-images.githubusercontent.com/100114549/170840209-f8388163-d5f9-443f-9a6f-b9135a83349b.png)
       
     + Giải nén tệp vừa tải.
-- Các thư viện SDL2, SDL2_ttf, SDL2_mixer đã có sẵn trong project, nếu bạn muốn cài đặt thử có thể xem dưới đây:
+- Các thư viện SDL2, SDL2_ttf, SDL2_mixer được cài đặt khi truy cập các link dưới đây:
       
      + SDL2 : https://www.libsdl.org/release/SDL2-devel-2.0.20-mingw.tar.gz
       
@@ -54,7 +54,7 @@
       
      + SDL2_ttf : https://www.libsdl.org/projects/SDL_ttf/release/ (Chọn phiên bản phù hợp với máy và dành cho nhà phát triển). Ưu tiên chọn bản mới nhất, ví dụ: SDL2_ttf-devel-2.0.18-mingw.tar.gz
       
-     Copy toàn bộ file trong thư mục x86_64-w64-mingw32 của SDL2, SDL2_mixer, SDL2_ttf vào thư mục src.
+     Copy toàn bộ file trong thư mục x86_64-w64-mingw32 của SDL2, SDL2_mixer, SDL2_ttf vào thư mục src mới trong project.
       
      Đưa các file SDL2.dll, SDL2_mixer.dll, SDL2_ttf.dll, sdl2-config ra ngoài thư mục chứa main.cpp.
 - Chạy chương trình: 
