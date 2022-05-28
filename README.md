@@ -26,3 +26,4 @@
       
       Hoàn tất bước cài đặt VScode.
       
+- Cài đặt trình biên dịch MinGW-W64 GCC-7.3.0-SEH: 
