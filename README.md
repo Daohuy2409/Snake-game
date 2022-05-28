@@ -1,3 +1,4 @@
+![Screenshot (2)](https://user-images.githubusercontent.com/100114549/170839925-00133e66-5ac6-4b35-b9b9-e56c4856300f.png)
 1. Hướng dẫn cài đặt (Với 64 bit):
 - Cài đặt Visual Studio Code: nhấn vào đường link này để cài đặt:
       https://code.visualstudio.com/download#
