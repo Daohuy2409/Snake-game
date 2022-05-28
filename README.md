@@ -53,3 +53,11 @@
      + SDL2_mixer : https://www.libsdl.org/projects/SDL_mixer/ (Chọn phiên bản phù hợp với máy và dành cho nhà phát triển). Ví dụ: SDL2_mixer-devel-2.0.4-mingw.tar.gz
       
      + SDL2_ttf : https://www.libsdl.org/projects/SDL_ttf/release/ (Chọn phiên bản phù hợp với máy và dành cho nhà phát triển). Ưu tiên chọn bản mới nhất, ví dụ: SDL2_ttf-devel-2.0.18-mingw.tar.gz
+      
+      Copy toàn bộ file trong thư mục x86_64-w64-mingw32 của SDL2, SDL2_mixer, SDL2_ttf vào thư mục src.
+      
+      Đưa các file SDL2.dll, SDL2_mixer.dll, SDL2_ttf.dll, sdl2-config ra ngoài thư mục chứa main.cpp.
+- Chạy chương trình: 
+      
+      + Tại Terminal, gọi mingw32-make, sau đó là .\main.exe
+      
