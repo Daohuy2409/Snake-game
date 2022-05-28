@@ -45,4 +45,4 @@
       
     ![Screenshot ()](https://user-images.githubusercontent.com/100114549/170840209-f8388163-d5f9-443f-9a6f-b9135a83349b.png)
       
-      Giải nén tệp vừa tải.
+     Giải nén tệp vừa tải.
