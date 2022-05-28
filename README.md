@@ -29,5 +29,9 @@
 - Cài đặt trình biên dịch MinGW-W64 GCC-7.3.0-SEH: Nhấp vào đây để cài đặt: https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/7.3.0/threads-win32/seh/x86_64-7.3.0-release-win32-seh-rt_v5-rev0.7z
 
       + Giải nén file x86_64-7.3.0-release-win32-seh-rt_v5-rev0.7z
-      + Copy thư mục `mingw64` vào **<ROOTDIR>** (Ví dụ `D:\software`)
-      + Cài đặt đường dẫn PATH đến **<ROOTDIR>\mingw64\bin**
+      
+      + Copy thư mục `mingw64` vào <ROOTDIR> (Ví dụ `D:\software`)
+      
+      + Cài đặt đường dẫn PATH đến <ROOTDIR>\mingw64\bin
+      (Tìm kiếm "PATH" trên máy tính, nhấn vào Edit the system environment variables, sau đó nhấn Environment Variables để cài đặt Path)
+      
