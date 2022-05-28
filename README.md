@@ -97,17 +97,18 @@
 - Tách file.
 
 5. Kết luận:
+      
 - Hướng phát triển:
       
-      + Làm thêm các bức tường trong sân chơi để tăng độ khó.
+     + Làm thêm các bức tường trong sân chơi để tăng độ khó.
       
-      + Có thể chơi người với người hoặc người với máy so sánh về điểm số trong một khoảng thời gian xác định.
+     + Có thể chơi người với người hoặc người với máy so sánh về điểm số trong một khoảng thời gian xác định.
       
-      + Tạo hình sân chơi, rắn với đồ họa đẹp hơn.
+     + Tạo hình sân chơi, rắn với đồ họa đẹp hơn.
       
 - Các điều mà em rút ra được sau khi hoàn thiện chương trình:
       
-      + Cần bổ túc thêm tiếng Anh, do các tài liệu, thông tin đầy đủ, chất lượng viết bằng tiếng Việt không nhiều, mà chủ yếu viết bằng tiếng Anh.
+     + Cần bổ túc thêm tiếng Anh, do các tài liệu, thông tin đầy đủ, chất lượng viết bằng tiếng Việt không nhiều, mà chủ yếu viết bằng tiếng Anh.
       
-      + Dần hoàn thiện các kĩ năng khi code những project với hàng trăm dòng code, thay vì những chương trình vài chục dòng code như trước đây.
+     + Dần hoàn thiện các kĩ năng khi code những project với hàng trăm dòng code, thay vì những chương trình vài chục dòng code như trước đây.
       
