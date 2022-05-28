@@ -1,4 +1,4 @@
-![Screenshot (2)](https://user-images.githubusercontent.com/100114549/170839925-00133e66-5ac6-4b35-b9b9-e56c4856300f.png)
+
 1. Hướng dẫn cài đặt (Với 64 bit):
 - Cài đặt Visual Studio Code: nhấn vào đường link này để cài đặt:
       https://code.visualstudio.com/download#
@@ -37,5 +37,6 @@
       (Tìm kiếm "PATH" trên máy tính, nhấn vào Edit the system environment variables, sau đó nhấn Environment Variables để cài đặt Path)
       
       Kiểm tra bằng cách gọi "g++" và "mingw32-make" trong terminal
-      ![image](https://user-images.githubusercontent.com/100114549/170839913-24d6aece-201f-4c14-b34f-0a1adfb768c3.png)
+      
+      ![Screenshot (2)](https://user-images.githubusercontent.com/100114549/170839925-00133e66-5ac6-4b35-b9b9-e56c4856300f.png)
 
