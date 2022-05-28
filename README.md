@@ -48,8 +48,8 @@
      Giải nén tệp vừa tải.
 - Các thư viện SDL2, SDL2_ttf, SDL2_mixer đã có sẵn trong project, nếu bạn muốn cài đặt thử có thể xem dưới đây:
       
-     SDL2 : https://www.libsdl.org/release/SDL2-devel-2.0.20-mingw.tar.gz
+     + SDL2 : https://www.libsdl.org/release/SDL2-devel-2.0.20-mingw.tar.gz
       
-     SDL2_mixer : https://www.libsdl.org/projects/SDL_mixer/ (Chọn phiên bản phù hợp với máy và dành cho nhà phát triển). Ví dụ: SDL2_mixer-devel-2.0.4-mingw.tar.gz
+     + SDL2_mixer : https://www.libsdl.org/projects/SDL_mixer/ (Chọn phiên bản phù hợp với máy và dành cho nhà phát triển). Ví dụ: SDL2_mixer-devel-2.0.4-mingw.tar.gz
       
-     SDL2_ttf : https://www.libsdl.org/projects/SDL_ttf/release/ (Chọn phiên bản phù hợp với máy và dành cho nhà phát triển). Ưu tiên chọn bản mới nhất, ví dụ: SDL2_ttf-devel-2.0.18-mingw.tar.gz
+     + SDL2_ttf : https://www.libsdl.org/projects/SDL_ttf/release/ (Chọn phiên bản phù hợp với máy và dành cho nhà phát triển). Ưu tiên chọn bản mới nhất, ví dụ: SDL2_ttf-devel-2.0.18-mingw.tar.gz
