@@ -35,3 +35,4 @@
       + Cài đặt đường dẫn PATH đến <ROOTDIR>\mingw64\bin
       (Tìm kiếm "PATH" trên máy tính, nhấn vào Edit the system environment variables, sau đó nhấn Environment Variables để cài đặt Path)
       
+      Kiểm tra bằng cách gọi "g++" và "mingw32-make" trong terminal
