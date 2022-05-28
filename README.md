@@ -36,3 +36,5 @@
       (Tìm kiếm "PATH" trên máy tính, nhấn vào Edit the system environment variables, sau đó nhấn Environment Variables để cài đặt Path)
       
       Kiểm tra bằng cách gọi "g++" và "mingw32-make" trong terminal
+      ![image](https://user-images.githubusercontent.com/100114549/170839913-24d6aece-201f-4c14-b34f-0a1adfb768c3.png)
+
