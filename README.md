@@ -43,4 +43,4 @@
 - Tải project Snake game từ github https://github.com/Daohuy2409/Snake-game
       Nhấn vào “Code” màu xanh, nhấp chọn “Download ZIP” để tải project về.
       
-      ![Screenshot ()](https://user-images.githubusercontent.com/100114549/170840209-f8388163-d5f9-443f-9a6f-b9135a83349b.png)
+    ![Screenshot ()](https://user-images.githubusercontent.com/100114549/170840209-f8388163-d5f9-443f-9a6f-b9135a83349b.png)
