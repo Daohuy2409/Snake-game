@@ -41,11 +41,11 @@
     ![Screenshot (2)](https://user-images.githubusercontent.com/100114549/170839925-00133e66-5ac6-4b35-b9b9-e56c4856300f.png)
 
 - Tải project Snake game từ github https://github.com/Daohuy2409/Snake-game
-      Nhấn vào “Code” màu xanh, nhấp chọn “Download ZIP” để tải project về.
+     + Nhấn vào “Code” màu xanh, nhấp chọn “Download ZIP” để tải project về.
       
     ![Screenshot ()](https://user-images.githubusercontent.com/100114549/170840209-f8388163-d5f9-443f-9a6f-b9135a83349b.png)
       
-     Giải nén tệp vừa tải.
+    + Giải nén tệp vừa tải.
 - Các thư viện SDL2, SDL2_ttf, SDL2_mixer đã có sẵn trong project, nếu bạn muốn cài đặt thử có thể xem dưới đây:
       
      + SDL2 : https://www.libsdl.org/release/SDL2-devel-2.0.20-mingw.tar.gz
